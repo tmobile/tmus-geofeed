@@ -930,6 +930,7 @@
 2607:fb90:8290::/44,US,US-WA,Seattle,
 2607:fb90:82e0::/44,US,US-WA,Seattle,
 2607:fb90:82f0::/44,US,US-WA,Seattle,
+2607:fb90:8300::/40,US,US-WA,Seattle,
 2607:fb90:8340::/44,US,US-WA,Seattle,
 2607:fb90:8350::/44,US,US-WA,Seattle,
 2607:fb90:b200::/44,US,US-WA,Seattle,
