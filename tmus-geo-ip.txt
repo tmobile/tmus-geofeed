@@ -1,4 +1,4 @@
-# T-Mobile US Geofeed,lastupdated (rfc3339): 2021-07-11T01:13:27-08:00
+# T-Mobile US Geofeed,lastupdated (rfc3339): 2021-07-19T01:13:27-08:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 172.32.0.0/11,US,,,
 208.54.0.0/17,US,,,
