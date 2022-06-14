@@ -2840,7 +2840,7 @@
 2607:fb90:5700::/40,US,US-CA,Los Angeles,
 2607:fb90:9a00::/40,US,US-MN,Minneapolis,
 2607:fb90:8700::/40,US,US-NV,Las Vegas,
-2607:fb90:3f00::/40,US-GA,Atlanta,
+2607:fb90:3f00::/40,US,US-GA,Atlanta,
 2607:fb90:ad00::/40,US,US-MA,Boston,
 2607:fb90:ef00::/40,US,US-FL,Orlando,
 2607:fb90:e900::/40,US,US-PA,Philadelphia,
