@@ -2850,3 +2850,5 @@
 2607:fb90:9300::/40,US,US-NY,New York,
 2607:fb90:8b00::/40,US,US-CA,Sacramento,
 65.76.0.0/16,US,US-WA,Bothell,
+162.191.0.0/16,US,US-IL,Chicago,
+167.20.0.0/16,US,US-PA,Philadelphia,
