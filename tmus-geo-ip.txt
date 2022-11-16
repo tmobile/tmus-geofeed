@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# T-Mobile US Geofeed,lastupdated (rfc3339): 2022-07-15T01:11:28-08:00
+# T-Mobile US Geofeed,lastupdated (rfc3339): 2022-08-15T01:11:28-08:00
 172.32.0.0/11,US,,,
 208.54.0.0/17,US,,,
 208.54.128.0/19,US,,,
@@ -2939,3 +2939,12 @@
 2607:fb91:82d0::/44,US,US-CA,San Diego,
 2607:fb91:82e0::/44,US,US-CA,San Diego,
 2607:fb91:82e4::/44,US,US-CA,San Diego,
+208.54.62.224/27,US,US-CO,Denver,
+208.54.62.160/27,US,US-MD,Baltimore,
+208.54.27.64/27,US,US-WA,Seattle,
+208.54.62.0/27,US,US-TX,Dallas,
+208.54.62.192/27,US,US-IL,Chicago,
+208.54.62.32/27,US,US-CA,Los Angeles,
+208.54.62.64/27,US,US-GA,Atlanta,
+208.54.62.96/27,US,US-MA,Boston,
+208.54.62.128/2,US,US-FL,Tampa,
