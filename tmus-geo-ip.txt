@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# T-Mobile US Geofeed,lastupdated (rfc3339): 2022-08-15T01:11:28-08:00
+# T-Mobile US Geofeed,lastupdated (rfc3339): 2022-11-15T01:11:28-08:00
 172.32.0.0/11,US,,,
 208.54.0.0/17,US,,,
 208.54.128.0/19,US,,,
@@ -2947,4 +2947,4 @@
 208.54.62.32/27,US,US-CA,Los Angeles,
 208.54.62.64/27,US,US-GA,Atlanta,
 208.54.62.96/27,US,US-MA,Boston,
-208.54.62.128/2,US,US-FL,Tampa,
+208.54.62.128/27,US,US-FL,Tampa,
