@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# T-Mobile US Geofeed,lastupdated (rfc3339): 2022-11-15T01:11:28-08:00
+# T-Mobile US Geofeed,lastupdated (rfc3339): 2022-11-16T01:11:28-08:00
 172.32.0.0/11,US,,,
 208.54.0.0/17,US,,,
 208.54.128.0/19,US,,,
@@ -554,10 +554,6 @@
 2607:fb90:3e10::/44,US,US-MA,Boston,
 2607:fb90:3e20::/44,US,US-MA,Boston,
 2607:fb90:3e30::/44,US,US-MA,Boston,
-2607:fb90:3f00::/44,US,US-CA,San Francisco,
-2607:fb90:3f10::/44,US,US-CA,San Francisco,
-2607:fb90:3f20::/44,US,US-CA,San Francisco,
-2607:fb90:3f30::/44,US,US-CA,San Francisco,
 2607:fb90:4000::/44,US,US-FL,Orlando,
 2607:fb90:400::/44,US,US-CA,Sacramento,
 2607:fb90:4020::/44,US,US-FL,Orlando,
