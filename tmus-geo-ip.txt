@@ -1745,7 +1745,7 @@
 2607:fb90:bd00::/40,US,US-CA,Los Angeles,
 2607:fb90:bd0::/44,US,US-TX,Houston,
 2607:fb90:be00::/40,US,US-FL,Jacksonville,
-2607:fb90:c00:/44,US,US-NC,Charlotte,
+2607:fb90:c00::/44,US,US-NC,Charlotte,
 2607:fb90:c105:fff0::/64,US,US-CO,Denver,
 2607:fb90:c108:fff0::/64,US,US-FL,Miami,
 2607:fb90:c109:fff0::/64,US,US-FL,Orlando,
