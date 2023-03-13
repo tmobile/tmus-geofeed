@@ -1,5 +1,5 @@
  # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# T-Mobile US Geofeed,lastupdated (rfc3339): 2023-02-25T01:11:28-08:00
+# T-Mobile US Geofeed,lastupdated (rfc3339): 2023-02-26T01:11:28-08:00
 172.32.0.0/11,US,,,
 208.54.0.0/17,US,,,
 208.54.128.0/19,US,,,
@@ -2154,11 +2154,7 @@
 2607:fb90:fa00::/40,US,US-MN,Minneapolis,
 2607:fb90:fa0::/44,US,US-WA,Seattle,
 2607:fb90:fc0::/44,US,US-WA,Seattle,
-2607:fb90:fd00::/44,PR,,,
 2607:fb90:fd0::/44,US,US-WA,Seattle,
-2607:fb90:fd10::/44,PR,,,
-2607:fb90:fd20::/44,PR,,,
-2607:fb90:fd30::/44,PR,,,
 2607:fb90:fe0::/44,US,US-WA,Seattle,
 2607:fb90:ff00::/44,US,US-CT,Bloomfield,
 2607:fb90:ff10::/44,US,US-CT,Bloomfield,
@@ -3080,3 +3076,7 @@
 2607:fb90:ec20::/44,US,US-WA,Seattle,
 2607:fb90:ec30::/44,US,US-WA,Seattle,
 2607:fb90:ec40::/44,US,US-WA,Seattle,
+2607:fb90:fd00::/44,US,US-CA,Los Angeles,
+2607:fb90:fd10::/44,US,US-CA,Los Angeles,
+2607:fb90:fd20::/44,US,US-CA,Los Angeles,
+2607:fb90:fd30::/44,US,US-CA,Los Angeles,
