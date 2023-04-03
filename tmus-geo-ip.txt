@@ -1,5 +1,5 @@
  # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# T-Mobile US Geofeed,lastupdated (rfc3339): 2023-03-21T01:11:28-08:00
+# T-Mobile US Geofeed,lastupdated (rfc3339): 2023-03-29T01:11:28-08:00
 172.32.0.0/11,US,,,
 208.54.0.0/17,US,,,
 208.54.128.0/19,US,,,
@@ -3099,3 +3099,9 @@
 2607:fb91:2100::/40,US,US-NY,New York,
 2607:fb91:1d00::/40,US,US-CA,Sacramento,
 2607:fb91:1c00::/40,US,US-NJ,Newark,
+2607:fb90:e3c0::/44,US,US-GA,Atlanta,
+2607:fb90:e3d0::/44,US,US-GA,Atlanta,
+2607:fb90:e3e0::/44,US,US-GA,Atlanta,
+2607:fb90:e3f0::/44,US,US-GA,Atlanta,
+172.59.232.0/23,US,US-TX,Austin,
+172.58.148.0/23,US,US-TN,Nashville,
