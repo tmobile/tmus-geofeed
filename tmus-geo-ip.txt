@@ -1,5 +1,5 @@
  # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# T-Mobile US Geofeed,lastupdated (rfc3339): 2023-03-29T01:11:28-08:00
+# T-Mobile US Geofeed,lastupdated (rfc3339): 2023-04-11T01:11:28-08:00
 172.32.0.0/11,US,,,
 208.54.0.0/17,US,,,
 208.54.128.0/19,US,,,
@@ -2504,7 +2504,7 @@
 208.54.21.177/32,US,US-FL,Miami,
 208.54.21.178/32,US,US-FL,Miami,
 208.54.21.179/32,US,US-FL,Miami,
-172.58.128.0/21,US,US-WA,Seattle,
+172.58.128.0/21,US,US-FL,Miami,
 208.54.21.18/32,US,US-CA,Los Angeles,
 208.54.21.180/32,US,US-FL,Miami,
 208.54.21.181/32,US,US-PA,Philadelphia,
