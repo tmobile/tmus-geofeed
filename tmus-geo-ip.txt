@@ -3174,4 +3174,13 @@
 172.58.224.0/21,US,US-NY,New York,
 172.58.8.0/21,US,US-MN,Minneapolis,
 172.56.216.0/21,US,US-PA,Philadelphia,
+2607:fb91:8800::/40,US,US-CA,Los Angeles,
+2607:fb91:200::/40,US,US-CA,Los Angeles,
+2607:fb91:300::/40,US,US-CA,Los Angeles,
+2607:fb91:600::/40,US,US-CA,Los Angeles,
+2607:fb91:400::/40,US,US-CA,Los Angeles,
+2607:fb91:1b00::/40,US,US-CA,Los Angeles,
+2607:fb91:a00::/40,US,US-CA,Los Angeles,
+2607:fb91:200::/40,US,US-CA,Los Angeles,
+
 
