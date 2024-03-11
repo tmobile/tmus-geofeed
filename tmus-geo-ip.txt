@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# T-Mobile US Geofeed,lastupdated (rfc3339): 2024-02-12T01:11:28-08:00
+# T-Mobile US Geofeed,lastupdated (rfc3339): 2024-03-10T01:11:28-08:00
 172.32.0.0/11,US,,,
 208.54.0.0/17,US,,,
 208.54.128.0/19,US,,,
@@ -2940,7 +2940,7 @@
 2607:fb90:fb04::/46,US,US-IN,Indianapolis,
 2607:fb90:fb08::/46,US,US-IN,Indianapolis,
 2607:fb90:fb0c::/46,US,US-IN,Indianapolis,
-172.58.81.0/25,US,US-IN,Indianapolis,
+172.58.81.0/24,US,US-MN,Minneapolis,
 2607:fb90:d460::/44,US,US-AL,Mobile,
 2607:fb90:d470::/44,US,US-AL,Mobile,
 2607:fb90:d480::/44,US,US-AL,Mobile,
@@ -3092,7 +3092,7 @@
 172.56.24.0/23,US,US-TX,Houston,
 172.56.32.0/23,US,US-MD,Baltimore,
 172.58.0.0/23,US,US-GA,Atlanta,
-172.58.150.0/23,US,US-CA,Riverside,
+172.58.150.0/23,US,US-TN,Nashville,
 172.59.200.0/23,US,US-IL,Chicago,
 208.54.19.100/32,US,US-MN,Minneapolis,
 208.54.19.97/32,US,US-MN,Minneapolis,
