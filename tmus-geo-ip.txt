@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# T-Mobile US Geofeed,lastupdated (rfc3339): 2024-01-12T01:11:28-08:00
+# T-Mobile US Geofeed,lastupdated (rfc3339): 2024-02-12T01:11:28-08:00
 172.32.0.0/11,US,,,
 208.54.0.0/17,US,,,
 208.54.128.0/19,US,,,
@@ -3152,9 +3152,6 @@
 72.250.64.0/20,US,US-TX,Dallas,	
 174.141.208.0/20,US,US-TX,Dallas,	
 168.73.0.0/17,US,US-TX,Dallas,	
-2607:fb90:3d30::/44,US,US-TX,Dallas,	
-2607:fb90:3d40::/44,US,US-TX,Dallas,	
-2607:fb90:3d50::/44,US,US-TX,Dallas,	 
 2607:fb90:6120::/44,US,US-TX,Dallas,	
 2607:fb91:2400::/40,US,US-ID,Boise,
 2607:fb91:2500::/40,US,US-NJ,Harrison,
@@ -3195,5 +3192,20 @@
 2607:fb91:3000::/40,US,US-NY,New York,
 2607:fb91:3100::/40,US,US-NY,New York,
 2607:fb91:3200::/40,US,US-NY,New York,
+2607:fb90:6100::/44,US,US-PA,Philadelphia,
+2607:fb90:ec00::/40,US,US-TX,Austin,
+2607:fb90:1c00::/40,US,US-TX,Dallas,
+2607:fb91:8d00::/40,US,US-TX,Dallas,
+2607:fb90:3d00::/40,US,US-IL,Chicago,
+2607:fb91:9000::/40,US,US-IL,Chicago,
+2607:fb90:3d00::/40,US,US-IL,Chicago,
+2607:fb90:3e00::/40,US,US-FL,Jacksonville,
+2607:fb90:bf00::/40,US,US-KS,Kansas City,
+2607:fb91:100::/40,US,US-NV,Las Vegas,
+2607:fb90:ac00::/40,US,US-MA,Boston,
+2607:fb91::/40,US,US-FL,Orlando,
+2607:fb90:4f00::/40,US,US-CA,Los Angeles,
+2607:fb90:7f00::/40,US,US-CA,Los Angeles,
+
 
 
