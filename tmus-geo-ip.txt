@@ -904,7 +904,6 @@
 2607:fb90:60c0::/44,US,US-PA,Philadelphia,
 2607:fb90:60e0::/44,US,US-PA,Philadelphia,
 2607:fb90:60f0::/44,US,US-PA,Philadelphia,
-2607:fb90:6100::/44,CA,CA-ON,Toronto,
 2607:fb90:610::/44,US,US-CA,Los Angeles,
 2607:fb90:6110::/44,US,US-PA,Philadelphia,
 2607:fb90:6200::/44,US,US-PA,Philadelphia,
