@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# T-Mobile US Geofeed,lastupdated (rfc3339): 2024-06-10T01:11:28-08:00
+# T-Mobile US Geofeed,lastupdated (rfc3339): 2024-07-10T01:11:28-08:00
 172.32.0.0/11,US,,,
 208.54.0.0/17,US,,,
 208.54.128.0/19,US,,,
@@ -2215,7 +2215,6 @@
 172.58.160.0/24,US,US-IL,Chicago,
 172.58.160.0/21,US,US-IL,Chicago,
 172.56.44.0/23,US,US-HI,Honolulu,
-172.56.14.0/23,US,US-TX,Houston,
 172.58.100.0/24,US,US-TX,Houston,
 172.58.101.0/24,US,US-TX,Houston,
 172.58.102.0/25,US,US-TX,Houston,
@@ -2650,7 +2649,6 @@
 208.54.83.150/32,US,US-TX,Houston,
 208.54.83.151/32,US,US-TX,Houston,
 208.54.83.152/32,US,US-TX,Houston,
-172.56.48.0/21,US,US-TX,Houston,
 208.54.86.145/32,US,US-TX,Dallas,
 208.54.86.146/32,US,US-TX,Dallas,
 208.54.86.147/32,US,US-TX,Dallas,
@@ -2710,7 +2708,6 @@
 208.54.104.6/32,US,US-TX,Dallas,
 172.58.212.0/23,US,US-CA,Los Angeles,
 172.58.80.0/24,US,US-MN,Minneapolis,
-172.56.184.0/21,US,US-CA,Los Angeles,
 172.56.224.0/21,US,US-AL,Birmingham,
 172.56.232.0/21,US,US-CA,Los Angeles,
 172.56.240.0/21,US,US-CA,San Diego,
@@ -3189,4 +3186,14 @@
 64.13.1.0/24,US,US-IL,Chicago,                                  
 64.13.0.0/23,US,US-IL,Chicago,    
 2606:300::/32,US,US-IL,Chicago,     
+172.56.186.0/23,US,US-CA,Los Angeles,
+172.58.112.0/21,US,US-CA,Los Angeles,
+172.56.54.0/23,US,US-CA,Los Angeles,
+172.56.184.0/23,US,US-CA,San Diego,
+172.56.14.0/23,US,US-CA,Sacramento,
+172.56.52.0/23,US,US-NV,Las Vegas,
+172.56.190.0/23,US,US-OR,Portland,
+172.56.188.0/23,US,US-TX,Fort Worth,
+172.58.48.0/21,US,US-TX,Houston,
+172.56.50.0/23,US,US-WA,Seattle,
 
