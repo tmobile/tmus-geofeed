@@ -1671,7 +1671,7 @@
 2607:fb90:dd0::/44,US,US-TX,Dallas,
 2607:fb90:de00::/44,US,US-NY,Syracuse,
 2607:fb90:de0::/44,US,US-TX,Dallas,
-2607:fb92:2000::/40,US,US-NY,Syracuse
+2607:fb92:2000::/40,US,US-NY,Syracuse,
 2607:fb90:de10::/44,US,US-NY,Syracuse,
 2607:fb90:de20::/44,US,US-NY,Syracuse,
 2607:fb90:de30::/44,US,US-NY,Syracuse,
@@ -1877,7 +1877,6 @@
 2607:fb90:f740::/44,US,US-UT,Salt Lake City,
 2607:fb90:f750::/44,US,US-UT,Salt Lake City,
 2607:fb90:f760::/44,US,US-UT,Salt Lake City,
-2607:fb92:2400::/40,US,US-UT,Salt Lake City,
 2607:fb90:f80::/44,US,US-WA,Seattle,
 2607:fb90:f90::/44,US,US-WA,Seattle,
 2607:fb90:f910::/44,US,US-TX,Houston,
@@ -2739,7 +2738,7 @@
 2607:fb91:a100::/40,US,US-TX,Dallas,
 2607:fb91:a200::/40,US,US-IL,Chicago,
 2607:fb92:2900::/40,US,US-CA,San Francisco,
-2607:fb92:500::/40,US,US-CA,San Francisco
+2607:fb92:500::/40,US,US-CA,San Francisco,
 2607:fb91:a400::/40,US,US-CA,San Francisco,
 2607:fb91:a500::/40,US,US-PA,Philadelphia,
 2607:fb91:a600::/40,US,US-UT,Salt Lake City,
