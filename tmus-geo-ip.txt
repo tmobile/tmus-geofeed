@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# T-Mobile US Geofeed,lastupdated (rfc3339): 2026-03-02T01:11:28-08:00
+# T-Mobile US Geofeed,lastupdated (rfc3339): 2026-03-29T01:11:28-08:00
 172.32.0.0/11,US,,,
 208.54.0.0/17,US,,,
 208.54.128.0/19,US,,,
@@ -2936,7 +2936,7 @@
 165.27.248.70/32,US,US-TN,Knoxville,
 165.27.248.99/32,US,US-TN,Knoxville,
 165.27.243.3/32,US,US-TN,Knoxville,
-165.27.248.224/3,US,US-TN,Knoxville,
+165.27.248.224/32,US,US-TN,Knoxville,
 198.8.15.29/32,US,US-GA,Atlanta,
 198.8.15.27/32,US,US-GA,Atlanta,
 198.8.15.28/32,US,US-IL,Chicago,
@@ -2993,7 +2993,7 @@
 198.230.236.21/32,US,US-CA,Santa Clara,
 198.230.236.23/32,US,US-CA,Santa Clara,
 198.230.236.25/32,US,US-CA,Santa Clara,
-165.27.242.1/32	US,US-GA,Atlanta,
+165.27.242.1/32,	US,US-GA,Atlanta,
 165.27.242.33/32,US,US-GA,Atlanta,
 166.182.100.254/32,US,US-GA,Atlanta,
 166.181.100.252/31,US,US-GA,Atlanta,
